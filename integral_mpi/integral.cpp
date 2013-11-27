@@ -5,8 +5,8 @@
 #include <sstream>
 #include <mpi.h>
 
-const double MIN_X = -2;
-const double MAX_X = 2;
+const double MIN_X = 0;
+const double MAX_X = 1;
 
 double f(double x)
 {
